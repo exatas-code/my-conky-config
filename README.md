@@ -9,6 +9,7 @@ A clean, modern, and high-density Conky configuration designed for warm backgrou
 - **High Density**: Compact layout that groups system info into a clean, readable area.
 - **System Metrics**: Real-time monitoring of CPU, RAM, GPU (NVIDIA), Disk usage, and Uptime.
 - **Hardware Specs**: Dynamic display of OS details, Kernel version, and Hardware models.
+- **Autostart Support**: Instructions included to start with your system. [See how here](AUTOSTART.md).
 
 ## 🛠️ Installation
 
