@@ -35,7 +35,7 @@ If you prefer creating the entry manually:
    ```ini
    [Desktop Entry]
    Type=Application
-   Exec=conky -p 10 -c /home/edigley/.config/conky/conky.conf
+   Exec=conky -p 10 -c /home/nome-de-usuario/.config/conky/conky.conf
    Hidden=false
    NoDisplay=false
    X-GNOME-Autostart-enabled=true
